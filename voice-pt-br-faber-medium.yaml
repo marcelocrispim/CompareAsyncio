@@ -1,0 +1,4 @@
+backend: piper
+name: voice-pt-br-faber-medium
+parameters:
+  model: pt_BR-faber-medium.onnx
